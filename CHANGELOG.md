@@ -20,3 +20,8 @@
 - Cálculo de exceso de velocidad real y con margen del 5%
 - Filtrado de infracciones
 - Guardado del dataset limpio en urban_flow/data/interim
+
+### Ejercicio 04
+- Definición de la clase FineAnalyzer
+- Implementación de métodos de análisis (rankings, promedios, conteos)
+- Creación del objeto e invocación de métodos en celdas separadas
