@@ -25,3 +25,15 @@
 - Definición de la clase FineAnalyzer
 - Implementación de métodos de análisis (rankings, promedios, conteos)
 - Creación del objeto e invocación de métodos en celdas separadas
+
+### Ejercicio 04
+- Definición de la clase FineAnalyzer
+- Implementación de métodos de análisis (rankings, promedios, conteos)
+- Creación del objeto e invocación de métodos en celdas separadas
+
+### Ejercicio 05
+- Creación del gráfico de ranking de las 10 patentes más reincidentes.
+- Creación del gráfico de torta con el porcentaje de infracciones por hora.
+- Creación del gráfico de barras horizontal con la cantidad de infracciones por mes.
+- Creación del gráfico de líneas de los excesos de velocidad filtrados por la hora 00:00.
+- Creación del gráfico de líneas de los excesos de velocidad filtrados por la fecha 1932-01-01.
