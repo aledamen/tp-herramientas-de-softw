@@ -35,3 +35,9 @@
 ### Ejercicio 06
 - Cálculo del porcentaje de infracciones ocurridas en la fecha 1932-01-01.
 - Cálculo del porcentaje de infracciones ocurridas en la hora 00:00.
+
+## [Sprint 2] - 2026-05-17
+
+### Ejercicio 01
+- Descarga del dataset de imágenes y almacenamiento en urban_flow/data/raw/imgs
+- Inicializacion y configuración de las herramientas de versionado

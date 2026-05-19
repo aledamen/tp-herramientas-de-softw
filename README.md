@@ -13,3 +13,19 @@ Países Bajos y Alemania, cuenta con un sistema de radares cuyos datos
 históricos presentan errores de formato y valores faltantes. El objetivo
 de este sprint es limpiar y normalizar dichos registros para integrarlos
 sin inconsistencias al nuevo sistema.
+
+## Sprint 2
+
+### Objetivo
+El objetivo principal de este proyecto es aplicar los conocimientos adquiridos en el tratamiento de imágenes y en la programación limpia y clara.
+
+### Introducción y contexto del nuevo problema
+Los radares urbanos generan registros administrativos de multas de forma automática y las cámaras asociadas registran la evidencia visual que acompaña y valida la infracción. Sin embargo, se plantean los siguientes puntos a considerar:
+- No todas las multas tienen una imagen asociada.
+- No todas las imágenes corresponden a una infracción.
+- Puede haber errores de detección.
+
+El objetivo actual es desarrollar un sistema que determine qué multas tienen evidencia visual válida.
+
+Para esto vamos a necesitar los siguientes datasets:
+- Dataset procesado en el Sprint 1.
