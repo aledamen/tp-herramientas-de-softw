@@ -41,3 +41,7 @@
 ### Ejercicio 01
 - Descarga del dataset de imágenes y almacenamiento en urban_flow/data/raw/imgs
 - Inicializacion y configuración de las herramientas de versionado
+### Ejercicio 02
+- Listar todas las imágenes disponibles (no mostrar/no imprimir). Se debe mostrar el nombre y su tamaño en KB.
+- Construcción del diccionario group_images.
+- Función para mostrar 8 imágenes de forma aleatoria.
