@@ -45,3 +45,7 @@
 - Listar todas las imágenes disponibles (no mostrar/no imprimir). Se debe mostrar el nombre y su tamaño en KB.
 - Construcción del diccionario group_images.
 - Función para mostrar 8 imágenes de forma aleatoria.
+### Ejercicio 03
+- Conversión a escala de grises almacenada en 03_01_gray_scale.
+- Suavizado Gaussiano almacenado en 03_02_blur.
+- Detección de bordes con Canny almacenada en 03_03_canny.
