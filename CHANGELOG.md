@@ -53,3 +53,5 @@
 - Extracción de patentes con easyocr sobre los grupos plates y completes.
 - Matching contra speeding_fines.csv con umbral del 80%.
 - Generación de speeding_fines_image.csv con columnas imagen, patente_imagen y ratio.
+### Ejercicio 05
+- Métricas del dataset final: multas sin imagen, con imagen, imágenes sin match, pendientes de pago y pendientes con imagen.
