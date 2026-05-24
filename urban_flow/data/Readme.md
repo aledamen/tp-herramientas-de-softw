@@ -13,3 +13,16 @@ En definitiva, el dataset muestra que el control de velocidad refleja comportami
 Viniendo del mundo del desarrollo y no tanto del análisis de datos, seguramente haya cosas que se podrían mejorar, errores que se me hayan pasado o formas más óptimas de encarar algunas partes del proceso. Aun así, me sirvió para salir un poco del enfoque más tradicional de código y meterme en este tipo de trabajo.
 
 También fue útil para ver de primera mano todo el “ruido” que traen los datos reales y cómo eso impacta directamente en lo que después uno interpreta.
+## Conclusiones del Sprint 2
+
+Al relacionar las imágenes con los datos de multas observamos:
+
+1. Cobertura parcial: no todas las multas tienen evidencia visual asociada, lo que limita la validación automática del sistema.
+
+2. Errores del OCR: el reconocimiento de patentes no es perfecto. El umbral del 80% permite absorber errores típicos como la confusión entre caracteres similares (I/1, O/0, B/8).
+
+3. Heterogeneidad visual: las imágenes varían en resolución, iluminación y ángulo, lo que impacta la precisión del OCR.
+
+4. Dependencia del Sprint 1: la calidad del matching depende de la normalización previa de patentes realizada en el Sprint 1.
+
+5. Limitación del enfoque base: las imágenes del grupo completes requieren localización previa de la patente antes del OCR, complejidad no abordada en esta aproximación base.

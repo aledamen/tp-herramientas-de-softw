@@ -55,3 +55,5 @@
 - Generación de speeding_fines_image.csv con columnas imagen, patente_imagen y ratio.
 ### Ejercicio 05
 - Métricas del dataset final: multas sin imagen, con imagen, imágenes sin match, pendientes de pago y pendientes con imagen.
+### Ejercicio 06
+- Análisis y conclusiones sobre la relación entre imágenes y datos del dataset de multas.
