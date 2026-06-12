@@ -29,3 +29,11 @@ El objetivo actual es desarrollar un sistema que determine qué multas tienen ev
 
 Para esto vamos a necesitar los siguientes datasets:
 - Dataset procesado en el Sprint 1.
+
+## Sprint 3
+
+### Objetivo
+Profesionalizar la solución incorporando persistencia en base de datos relacional, uso de ORM mediante SQLAlchemy, control de versiones de datos y preparación para búsquedas avanzadas.
+
+### Introducción y contexto
+El sistema creció en volumen y complejidad. Se migran los datos procesados a una base de datos estructurada y se incorpora una base de datos vectorial para búsqueda por imagen.

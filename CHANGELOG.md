@@ -57,3 +57,10 @@
 - Métricas del dataset final: multas sin imagen, con imagen, imágenes sin match, pendientes de pago y pendientes con imagen.
 ### Ejercicio 06
 - Análisis y conclusiones sobre la relación entre imágenes y datos del dataset de multas.
+
+## [Sprint 3] - 2026-06-12
+
+### Ejercicio 01
+- Inicialización y configuración de la herramienta de versionado en rama Sprint_3 desde Sprint_2.
+- Verificación de acceso a todos los datasets generados.
+- Actualización del README con Sprint 3.
