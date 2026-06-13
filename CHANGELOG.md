@@ -69,3 +69,6 @@
 - Inicialización de DVC y configuración del remoto local en /content/remote_dvc.
 - Migración de imágenes raw a DVC.
 - Migración de imágenes interim y interim/plots a DVC.
+
+### Ejercicio 03
+- Diseño del modelo lógico con dataclasses: Vehiculo, Radar, Evidencia, Multa.
