@@ -64,3 +64,8 @@
 - Inicialización y configuración de la herramienta de versionado en rama Sprint_3 desde Sprint_2.
 - Verificación de acceso a todos los datasets generados.
 - Actualización del README con Sprint 3.
+
+### Ejercicio 02
+- Inicialización de DVC y configuración del remoto local en /content/remote_dvc.
+- Migración de imágenes raw a DVC.
+- Migración de imágenes interim y interim/plots a DVC.

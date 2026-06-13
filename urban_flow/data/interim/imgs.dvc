@@ -1,0 +1,6 @@
+outs:
+- md5: d05739ed5a55d4e5470412924a97e4d8.dir
+  size: 13946464
+  nfiles: 330
+  hash: md5
+  path: imgs
