@@ -75,3 +75,6 @@
 
 ### Ejercicio 04
 - Implementación de la función procesar_fila_csv que mapea una fila del CSV al modelo lógico.
+
+### Ejercicio 05
+- Diseño del modelo relacional con SQLAlchemy ORM: VehiculoORM, RadarORM, MultaORM, EvidenciaORM.
