@@ -72,3 +72,6 @@
 
 ### Ejercicio 03
 - Diseño del modelo lógico con dataclasses: Vehiculo, Radar, Evidencia, Multa.
+
+### Ejercicio 04
+- Implementación de la función procesar_fila_csv que mapea una fila del CSV al modelo lógico.
