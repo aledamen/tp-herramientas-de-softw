@@ -91,3 +91,8 @@
 - Radares con mayor volumen de infracciones.
 - Top 10 patentes reincidentes en período dado.
 - Porcentaje de multas confirmadas visualmente.
+
+### Ejercicio 08
+- Inicialización del modelo OpenCLIP ViT-B-32.
+- Creación de la colección vectorial patente_vectorial en ChromaDB.
+- Población de la base de datos vectorial con embeddings de imágenes.
