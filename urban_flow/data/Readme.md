@@ -26,3 +26,27 @@ Al relacionar las imágenes con los datos de multas observamos:
 4. Dependencia del Sprint 1: la calidad del matching depende de la normalización previa de patentes realizada en el Sprint 1.
 
 5. Limitación del enfoque base: las imágenes del grupo completes requieren localización previa de la patente antes del OCR, complejidad no abordada en esta aproximación base.
+
+## Conclusión del Sprint 3
+
+Este sprint fue el más exigente de los tres.
+
+Migrar de CSV a una base de datos relacional obliga a pensar el
+dominio de otra manera: qué es una entidad, qué es una relación,
+qué conviene normalizar. Diseñar el modelo lógico con dataclasses
+antes que el ORM ayudó a no mezclar esas dos preguntas, aunque
+al principio no estaba claro por qué había que separarlas.
+
+DVC resolvió algo que venía siendo incómodo: tener imágenes en
+git no escala. La separación entre lo que git trackea y lo que
+DVC maneja tiene sentido una vez que lo vivís en la práctica.
+
+La integración con ChromaDB y OpenCLIP fue la parte más nueva.
+Buscar imágenes por similitud semántica en lugar de por nombre
+de archivo es un enfoque distinto al que estaba acostumbrado.
+Entender que una imagen se puede representar como un vector y
+operar sobre eso llevó un tiempo, pero el resultado es útil.
+
+En general, los tres sprints construyeron algo que en el sprint 1
+era solo un CSV. Terminó siendo un sistema con capas y herramientas
+distintas para cada tipo de dato. 

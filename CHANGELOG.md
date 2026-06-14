@@ -99,3 +99,6 @@
 
 ### Ejercicio 09
 - Implementación de la función buscar_patente_imagen que combina búsqueda vectorial y relacional.
+
+### Ejercicio 10
+- Redacción de la conclusión del Sprint 3 sobre el trabajo desarrollado.
