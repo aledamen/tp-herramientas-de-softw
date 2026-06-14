@@ -78,3 +78,16 @@
 
 ### Ejercicio 05
 - Diseño del modelo relacional con SQLAlchemy ORM: VehiculoORM, RadarORM, MultaORM, EvidenciaORM.
+
+### Ejercicio 06
+- Creación de la base de datos transito.db con SQLAlchemy.
+- Migración de datos desde speeding_fines_image.csv.
+- Validación de cantidad de registros insertados.
+- Migración de transito.db a DVC.
+
+### Ejercicio 07
+- Top 10 patentes con mayor cantidad de multas.
+- Top 10 multas sin evidencia asociada.
+- Radares con mayor volumen de infracciones.
+- Top 10 patentes reincidentes en período dado.
+- Porcentaje de multas confirmadas visualmente.
