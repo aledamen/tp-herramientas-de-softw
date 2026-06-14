@@ -96,3 +96,6 @@
 - Inicialización del modelo OpenCLIP ViT-B-32.
 - Creación de la colección vectorial patente_vectorial en ChromaDB.
 - Población de la base de datos vectorial con embeddings de imágenes.
+
+### Ejercicio 09
+- Implementación de la función buscar_patente_imagen que combina búsqueda vectorial y relacional.
